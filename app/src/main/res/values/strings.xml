@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SPLaboV</string>
+
+    <string-array name="opciones">
+        <item>Supervisor</item>
+        <item>Construction Manager</item>
+        <item>Project Manager</item>
+        <item>Developer</item>
+    </string-array>
+</resources>
